@@ -14,5 +14,5 @@ For TreeHouse: This project aims for "Exceeds Expectations."
 * Javascript
 
 ## Setup
-* To run this project, run in a text editor. Right-click on "index.html" and select copy path. Paste path into a web browser.
+* To run this project, open project in a text editor. Right-click on "index.html" and select copy path. Paste path into a web browser.
 * Recommended browsers: Chrome, Firefox
