@@ -19,44 +19,44 @@ const quotes = [
   {
     quote: 'There will always be people beyond our reach that we can\'t protect.\
       Which is why we have to save people we can reach.',
-    source: ' Izuku Midoriya (“Deku”) ',
-    citation: ' My Hero Academia ',
+    source: 'Izuku Midoriya (“Deku”)',
+    citation: 'My Hero Academia',
     tag: 'Animation'
   }, 
   {
     quote: 'If you don\’t like your destiny, don\’t accept it.\
       Instead have the courage to change it the way you want it to be.',
-    source: ' Naruto Uzumaki ',
-    citation: ' Naruto ',
+    source: 'Naruto Uzumaki',
+    citation: 'Naruto',
     tag: 'Animation' 
   }, 
   {
-    quote: ' If you don\’t take risks, you can’t create a future. ',
-    source: ' Luffy D. Monkey ',
-    citation: ' One Piece ',
+    quote: 'If you don\’t take risks, you can’t create a future.',
+    source: 'Luffy D. Monkey',
+    citation: 'One Piece',
     tag: 'Animation'
   }, 
   {
-    quote: ' Anyone can wear the mask. You can wear the mask.\
-      If you didn\’t know that before, I hope you do now. ',
-    source: ' Miles Morales ',
-    citation: ' Spiderman: Into the Spider-Verse ',
+    quote: 'Anyone can wear the mask. You can wear the mask.\
+      If you didn\’t know that before, I hope you do now.',
+    source: 'Miles Morales',
+    citation: 'Spiderman: Into the Spider-Verse',
     tag: 'Animation',
     year: 2018
   }, 
   {
-    quote: ' I never thought that I will be able to do any of this stuff.\
-      But, I can. ',
-    source: ' Miles Morales ',
-    citation: ' Spiderman: Into the Spider-Verse ',
+    quote: 'I never thought that I will be able to do any of this stuff.\
+      But, I can.',
+    source: 'Miles Morales',
+    citation: 'Spiderman: Into the Spider-Verse',
     tag: 'Animation',
     year: 2018
   },
   {
-    quote: ' If you truly want to chase after something until the end,\
-      you have to put down restraints and everything else in order to pursue it. ',
-    source: ' Souma Yukihira ',
-    citation: ' Shokugeki no Souma ',
+    quote: 'If you truly want to chase after something until the end,\
+      you have to put down restraints and everything else in order to pursue it.',
+    source: 'Souma Yukihira',
+    citation: 'Shokugeki no Souma',
     tag: 'Animation'
   } 
 ];
