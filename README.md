@@ -1,2 +1,2 @@
 # Techdegree Project 1
-# Going for "Exceeds Expectations
+# Going for "Exceeds Expectations"
