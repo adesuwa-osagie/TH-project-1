@@ -18,7 +18,7 @@ WITHOUT Downloading:
 
 *Select the most recent commit
 *Then, go to the index.html file
-*Then, copy and paste the following url IN FRONT OF the url for the index html:
+*Then, copy and paste the following url IN FRONT OF the url for the index.html file (NOTE: REMOVE the double quotes):
 
 "https://htmlpreview.github.io/?"
 
