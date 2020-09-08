@@ -14,8 +14,14 @@ For TreeHouse: This project aims for "Exceeds Expectations."
 * Javascript
 
 ## Setup
-* WITHOUT Downloading: https://htmlpreview.github.io/?https://github.com/adesuwa-osagie/TH-project-1/blob/master/index.html
-*
+WITHOUT Downloading: 
+
+*Select the most recent commit
+
+*Then, copy and paste the following url into a new brower:
+
+https://htmlpreview.github.io/?https://github.com/adesuwa-osagie/TH-project-1/blob/master/index.html
+
 * Downloading: To run this project, open project in a text editor. Right-click on "index.html" and select copy path. Paste path into a web browser.
-*
+
 * Recommended browsers: Chrome, Firefox
