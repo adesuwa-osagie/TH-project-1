@@ -17,10 +17,10 @@ For TreeHouse: This project aims for "Exceeds Expectations."
 WITHOUT Downloading: 
 
 *Select the most recent commit
+*Then, go to the index.html file
+*Then, copy and paste the following url IN FRONT OF the url for the index html:
 
-*Then, copy and paste the following url into a new brower:
-
-https://htmlpreview.github.io/?https://github.com/adesuwa-osagie/TH-project-1/blob/master/index.html
+"https://htmlpreview.github.io/?"
 
 * Downloading: To run this project, open project in a text editor. Right-click on "index.html" and select copy path. Paste path into a web browser.
 
